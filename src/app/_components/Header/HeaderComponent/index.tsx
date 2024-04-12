@@ -27,7 +27,7 @@ const pathname = usePathname()
                 </Link>
 
                 <HeaderNav header={header}/>
-                <MobileNav header={header} />
+
             </Gutter>
         </nav>
     )
